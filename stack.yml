@@ -1,6 +1,6 @@
 provider:
   name: openfaas
-  gateway: http://10.6.30.103:31112
+  gateway: http://<node ip>:31112
 functions:
   vm-creation-attr:
     lang: python3
